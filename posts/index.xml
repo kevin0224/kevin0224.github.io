@@ -13,11 +13,11 @@
     
     <item>
       <title>开博大吉</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>http://example.org/posts/%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Fri, 18 Oct 2019 12:45:46 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
-      <description>github pages 预览博客 将本地文件上传至github</description>
+      <guid>http://example.org/posts/%E5%8D%9A%E5%AE%A2/</guid>
+      <description> github pages 预览博客  将public文件上传到github，用户名.github.io 打开 用户名.github.io 找到设置  在设置中找到github pages，下方链接可预览   </description>
     </item>
     
   </channel>
