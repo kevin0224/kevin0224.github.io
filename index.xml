@@ -20,5 +20,14 @@
       <description> github pages 预览博客  将public文件上传到github，用户名.github.io 打开 用户名.github.io 找到设置  在设置中找到github pages，下方链接可预览   </description>
     </item>
     
+    <item>
+      <title>开博大吉</title>
+      <link>http://example.org/posts/%E7%A9%BA%E7%A9%BA%E5%A6%82%E4%B9%9F/</link>
+      <pubDate>Fri, 18 Oct 2019 12:45:46 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E7%A9%BA%E7%A9%BA%E5%A6%82%E4%B9%9F/</guid>
+      <description> github pages 预览博客  将public文件上传到github，用户名.github.io 打开 用户名.github.io 找到设置  在设置中找到github pages，下方链接可预览   </description>
+    </item>
+    
   </channel>
 </rss>
