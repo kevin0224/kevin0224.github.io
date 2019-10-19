@@ -23,6 +23,16 @@
   </url>
   
   <url>
+    <loc>http://example.org/posts/%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2019-10-18T10:45:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/%E6%A0%87%E7%AD%BE2/</loc>
+    <lastmod>2019-10-18T10:45:46+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
   </url>
   
